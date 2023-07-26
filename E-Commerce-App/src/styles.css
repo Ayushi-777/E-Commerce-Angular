@@ -6,7 +6,27 @@ body{
     margin-left: 5%;
     margin-right: 5%;
 }
+.common-form{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 400px;
+    text-align: center;
+}
 
+.input-form{
+    height: 35px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    color: black;
+    padding-left: 10px;
+
+}
+.input-button{
+    height: 32px;
+    color: blue;
+    border: 2px solid blue;
+}
 
 
 
