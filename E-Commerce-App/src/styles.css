@@ -27,11 +27,9 @@ body{
     color: blue;
     border: 2px solid blue;
 }
-
-
-
-
-
+.error-p{
+    color: red;
+}
 
 
 

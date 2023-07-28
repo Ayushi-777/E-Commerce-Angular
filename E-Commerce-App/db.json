@@ -83,6 +83,12 @@
       "password": "a",
       "email": "a",
       "id": 14
+    },
+    {
+      "name": "ayushi",
+      "password": "098",
+      "email": "ayushi123@gmail.com",
+      "id": 15
     }
   ]
 }
