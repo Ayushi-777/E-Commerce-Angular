@@ -45,4 +45,7 @@
     height: 40px;
     border-left:0px;
 }
-
+h1 a{
+    color:blue;
+    text-decoration: none;
+}

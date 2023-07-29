@@ -28,6 +28,7 @@ login(data:login):void{
   if(isError){
          this.authError="Email or password is incorrect"
   }
+  
   })
 }
 
@@ -36,5 +37,8 @@ openLogin(){
 }
 openSignup(){
   this.showLogin=false
+}
+logout(){
+  
 }
 }

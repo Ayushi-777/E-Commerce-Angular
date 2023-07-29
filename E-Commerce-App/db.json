@@ -90,5 +90,105 @@
       "email": "ayushi123@gmail.com",
       "id": 15
     }
+  ],
+  "products": [
+    {
+      "name": "sumsung",
+      "price": 42344,
+      "color": "red",
+      "category": "mobile",
+      "description": "good product",
+      "img": "http/img.png",
+      "id": 1
+    },
+    {
+      "name": "apple",
+      "price": "54000",
+      "color": "blue",
+      "Category": "mobile",
+      "Description": "apple india biggest company product",
+      "img": "http:apple.com/apple12.jgp",
+      "id": 2
+    },
+    {
+      "name": "apple12",
+      "price": "87463",
+      "color": "red",
+      "Category": "mobile",
+      "Description": "good",
+      "img": "http:apple.com/apple43.jgp",
+      "id": 3
+    },
+    {
+      "name": "apple12",
+      "price": "87463",
+      "color": "red",
+      "Category": "mobile",
+      "Description": "good",
+      "img": "http:apple.com/apple43.jgp",
+      "id": 4
+    },
+    {
+      "name": "apple12",
+      "price": "87463",
+      "color": "red",
+      "Category": "mobile",
+      "Description": "good",
+      "img": "http:apple.com/apple43.jgp",
+      "id": 5
+    },
+    {
+      "name": "apple12",
+      "price": "87463",
+      "color": "red",
+      "Category": "mobile",
+      "Description": "good",
+      "img": "http:apple.com/apple43.jgp",
+      "id": 6
+    },
+    {
+      "name": "apple12",
+      "price": "87463",
+      "color": "red",
+      "Category": "mobile",
+      "Description": "good",
+      "img": "http:apple.com/apple43.jgp",
+      "id": 7
+    },
+    {
+      "name": "iphone14",
+      "price": "100000",
+      "color": "pink",
+      "Category": "",
+      "Description": "",
+      "img": "",
+      "id": 8
+    },
+    {
+      "name": "iphone14",
+      "price": "100000",
+      "color": "pink",
+      "Category": "mobile",
+      "Description": "apple product",
+      "img": "http:apple.com/appldd3.jgp",
+      "id": 9
+    },
+    {
+      "price": "12",
+      "color": "a",
+      "Category": "a",
+      "Description": "a",
+      "img": "a",
+      "id": 10
+    },
+    {
+      "name": "",
+      "price": "s",
+      "color": "s",
+      "Category": "s",
+      "Description": "s",
+      "img": "s",
+      "id": 11
+    }
   ]
 }
