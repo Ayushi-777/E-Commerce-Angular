@@ -12,7 +12,8 @@ export class SellerAddProductComponent {
   constructor(private product:ProductService){}
 
   addProductMessage :string | undefined;
-  fname:string='';
+
+
   ngOnInit():void{
 
   }
@@ -26,9 +27,7 @@ export class SellerAddProductComponent {
     })    
   }
 
-  clearInput(){
-    this.fname='';
-  }
   
 
 }
+

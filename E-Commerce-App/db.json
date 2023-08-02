@@ -92,103 +92,33 @@
     }
   ],
   "products": [
+    
     {
-      "name": "sumsung",
-      "price": 42344,
-      "color": "red",
-      "category": "mobile",
-      "description": "good product",
-      "img": "http/img.png",
-      "id": 1
-    },
-    {
-      "name": "apple",
-      "price": "54000",
-      "color": "blue",
+      "name": "iphone 11",
+      "price": "87000",
+      "color": "purple",
       "Category": "mobile",
-      "Description": "apple india biggest company product",
-      "img": "http:apple.com/apple12.jgp",
-      "id": 2
-    },
-    {
-      "name": "apple12",
-      "price": "87463",
-      "color": "red",
-      "Category": "mobile",
-      "Description": "good",
-      "img": "http:apple.com/apple43.jgp",
-      "id": 3
-    },
-    {
-      "name": "apple12",
-      "price": "87463",
-      "color": "red",
-      "Category": "mobile",
-      "Description": "good",
-      "img": "http:apple.com/apple43.jgp",
-      "id": 4
-    },
-    {
-      "name": "apple12",
-      "price": "87463",
-      "color": "red",
-      "Category": "mobile",
-      "Description": "good",
-      "img": "http:apple.com/apple43.jgp",
+      "Description": "good product , ",
+      "img": "https://img.freepik.com/premium-psd/realistic-iphone-14-pro-max-3d-smartphone-screen-mockup-template-with-editable-background-psd_349001-545.jpg?w=826",
       "id": 5
     },
     {
-      "name": "apple12",
-      "price": "87463",
-      "color": "red",
+      "name": "iphone 13",
+      "price": "87900",
+      "color": "purple",
       "Category": "mobile",
-      "Description": "good",
-      "img": "http:apple.com/apple43.jgp",
+      "Description": "nice",
+      "img": "https://img.freepik.com/free-vector/realistic-smartphone-device_52683-29765.jpg?w=740&t=st=1691010812~exp=1691011412~hmac=8ab7fb443aa9193b14f0119d4e00ef5e0dd6bb68f2b4e29abe953c720c54b973",
       "id": 6
     },
     {
-      "name": "apple12",
-      "price": "87463",
-      "color": "red",
-      "Category": "mobile",
-      "Description": "good",
-      "img": "http:apple.com/apple43.jgp",
+      "name": "iphone14",
+      "price": "190000",
+      "color": "Gray",
+      "Category": "Mobile phone",
+      "Description": "nice good product",
+      "img": "https://img.freepik.com/free-photo/smartphones-balancing-with-blue-background_23-2150271748.jpg?w=740&t=st=1691011097~exp=1691011697~hmac=eed43ecf506fab337f83aaac6504edbc538d0af53521be622bebbe162a8d4b37",
       "id": 7
-    },
-    {
-      "name": "iphone14",
-      "price": "100000",
-      "color": "pink",
-      "Category": "",
-      "Description": "",
-      "img": "",
-      "id": 8
-    },
-    {
-      "name": "iphone14",
-      "price": "100000",
-      "color": "pink",
-      "Category": "mobile",
-      "Description": "apple product",
-      "img": "http:apple.com/appldd3.jgp",
-      "id": 9
-    },
-    {
-      "price": "12",
-      "color": "a",
-      "Category": "a",
-      "Description": "a",
-      "img": "a",
-      "id": 10
-    },
-    {
-      "name": "",
-      "price": "s",
-      "color": "s",
-      "Category": "s",
-      "Description": "s",
-      "img": "s",
-      "id": 11
     }
   ]
 }
